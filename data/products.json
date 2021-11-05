@@ -1,0 +1,226 @@
+{
+    "products": [{
+            "id": 6,
+            "title": "Apple iPhone 11",
+            "image": "./images/products/iphone/iphone3.jpeg",
+            "price": 450000,
+            "category": "Phones",
+            "url": "https://flutterwave.com/pay/walinkiphones"
+        },
+
+        {
+            "id": 3,
+            "title": "Sony WH-CH510",
+            "image": "./images/products/headphone/headphone2.jpeg",
+            "price": 15000,
+            "category": "Headphones",
+            "url": "https://flutterwave.com/pay/waslinkheadphones"
+        },
+        {
+            "id": 4,
+            "title": "Apple iPhone 11",
+            "image": "./images/products/iphone/iphone2.jpeg",
+            "price": 500000,
+            "category": "Phones",
+            "url": "https://flutterwave.com/pay/walinkiphones"
+        },
+        {
+            "id": 8,
+            "title": "Apple iPhone 11",
+            "image": "./images/products/iphone/iphone4.jpeg",
+            "price": 400000,
+            "category": "Phones",
+            "url": "https://flutterwave.com/pay/walinkiphones"
+        },
+        {
+            "id": 5,
+            "title": "Sony WH-CH510",
+            "image": "./images/products/headphone/headphone3.jpeg",
+            "price": 12000,
+            "category": "Headphones",
+            "url": "https://flutterwave.com/pay/waslinkheadphones"
+        },
+
+        {
+            "id": 7,
+            "title": "Sony WH-CH510",
+            "image": "./images/products/headphone/headphone4.jpeg",
+            "price": 10000,
+            "category": "Headphones",
+            "url": "https://flutterwave.com/pay/waslinkheadphones"
+        },
+
+
+        {
+            "id": 10,
+            "title": "Apple iPhone 11 Pro",
+            "image": "./images/products/iphone/iphone5.jpeg",
+            "price": 550000,
+            "category": "Phones",
+            "url": "https://flutterwave.com/pay/walinkiphones"
+        },
+        {
+            "id": 11,
+            "title": "Sony WH-CH510",
+            "image": "./images/products/headphone/headphone6.jpeg",
+            "price": 15000,
+            "category": "Headphones",
+            "url": "https://flutterwave.com/pay/waslinkheadphones"
+        },
+        {
+            "id": 13,
+            "title": "Apple iPhone 11",
+            "image": "./images/products/iphone/iphone6.jpeg",
+            "price": 450000,
+            "category": "Phones",
+            "url": "https://flutterwave.com/pay/walinkiphones"
+        },
+        {
+            "id": 12,
+            "title": "Sony WH-CH510",
+            "image": "./images/products/headphone/headphone7.jpeg",
+            "price": 13000,
+            "category": "Headphones",
+            "url": "https://flutterwave.com/pay/waslinkheadphones"
+        },
+
+        {
+            "id": 14,
+            "title": "Game Pad",
+            "image": "./images/products/games/console7.jpg",
+            "price": 20000,
+            "category": "Game Pads",
+            "url": "https://flutterwave.com/pay/walinkgamingpads"
+        },
+        {
+            "id": 9,
+            "title": "Sony WH-CH510",
+            "image": "./images/products/headphone/headphone5.jpeg",
+            "price": 20000,
+            "category": "Headphones",
+            "url": "https://flutterwave.com/pay/waslinkheadphones"
+        },
+        {
+            "id": 15,
+            "title": "Sony WH-CH510",
+            "image": "./images/products/headphone/headphone8.jpeg",
+            "price": 17000,
+            "category": "Headphones",
+            "url": "https://flutterwave.com/pay/waslinkheadphones"
+        },
+        {
+            "id": 16,
+            "title": "Apple Macbook Pro",
+            "image": "./images/products/laptops/apple-macbook-pro-3.jpg",
+            "price": 1000000,
+            "category": "Laptops",
+            "url": "https://flutterwave.com/pay/waslinklaptopstest"
+        },
+        {
+            "id": 17,
+            "title": "Apple Macbook Pro",
+            "image": "./images/products/laptops/apple-macbook-pro-4.jpg",
+            "price": 1500000,
+            "category": "Laptops",
+            "url": "https://flutterwave.com/pay/waslinklaptopstest"
+        },
+        {
+            "id": 2,
+            "title": "Apple iPhone 11",
+            "image": "./images/products/iphone/iphone1.jpeg",
+            "price": 350000,
+            "category": "Phones",
+            "url": "https://flutterwave.com/pay/walinkiphones"
+        },
+        {
+            "id": 18,
+            "title": "Sony WH-CH510",
+            "image": "./images/products/headphone/headphone9.jpeg",
+            "price": 14000,
+            "category": "Headphones",
+            "url": "https://flutterwave.com/pay/waslinkheadphones"
+        },
+        {
+            "id": 20,
+            "title": "Apple Macbook Pro",
+            "image": "./images/products/laptops/apple-macbook-pro-5.jpg",
+            "price": 2000000,
+            "category": "Laptops",
+            "url": "https://flutterwave.com/pay/waslinklaptopstest"
+        },
+        {
+            "id": 19,
+            "title": "Sony WH-CH510",
+            "image": "./images/products/headphone/headphone10.jpeg",
+            "price": 16000,
+            "category": "Headphones",
+            "url": "https://flutterwave.com/pay/waslinkheadphones"
+        },
+        {
+            "id": 1,
+            "title": "Sony WH-CH510",
+            "image": "./images/products/headphone/headphone1.jpeg",
+            "price": 15000,
+            "category": "Headphones",
+            "url": "https://flutterwave.com/pay/waslinkheadphones"
+        },
+        {
+            "id": 24,
+            "title": "Apple Macbook Pro",
+            "image": "./images/products/laptops/apple-macbook-pro-3.jpg",
+            "price": 2300000,
+            "category": "Laptops",
+            "url": "https://flutterwave.com/pay/waslinklaptopstest"
+        },
+        {
+            "id": 21,
+            "title": "Sony WH-CH510",
+            "image": "./images/products/headphone/headphone11.jpeg",
+            "price": 18000,
+            "category": "Headphones",
+            "url": "https://flutterwave.com/pay/waslinkheadphones"
+        },
+
+        {
+            "id": 25,
+            "title": "Apple Macbook",
+            "image": "./images/products/laptops/apple-macbook-pro-5.jpg",
+            "price": 100000,
+            "category": "Laptops",
+            "url": "https://flutterwave.com/pay/waslinklaptopstest"
+        },
+        {
+            "id": 22,
+            "title": "Apple Macbook Pro",
+            "image": "./images/products/laptops/apple-macbook-pro-4.jpg",
+            "price": 1200000,
+            "category": "Laptops",
+            "url": "https://flutterwave.com/pay/waslinklaptopstest"
+        },
+        {
+            "id": 23,
+            "title": "Game Pad",
+            "image": "./images/products/games/console11.jpg",
+            "price": 18000,
+            "category": "Game Pads",
+            "url": "https://flutterwave.com/pay/walinkgamingpads"
+        },
+        {
+            "id": 24,
+            "title": "Sony WH-CH510",
+            "image": "./images/products/headphone/headphone12.jpeg",
+            "price": 12000,
+            "category": "Headphones",
+            "url": "https://flutterwave.com/pay/waslinkheadphones"
+        },
+        {
+            "id": 25,
+            "title": "Game Pad",
+            "image": "./images/products/games/gameconsole8.jpg",
+            "price": 20000,
+            "category": "Game Pads",
+            "url": "https://flutterwave.com/pay/walinkgamingpads"
+        }
+
+    ]
+}
